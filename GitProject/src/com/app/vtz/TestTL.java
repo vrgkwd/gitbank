@@ -6,4 +6,8 @@ public class TestTL {
 		System.out.println("this file is craeted by Team Lead");
 		System.out.println("Hello all, HOW ARE YOU--");
 	}
+	
+	public void methodCall() {
+		System.out.println("FROM STASH methdoCall()---");
+	}
 }
