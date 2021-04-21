@@ -7,4 +7,8 @@ public class TestTL {
 		System.out.println("Hello all, HOW ARE YOU--");
 		System.out.println("---after craeting the TAG---");
 	}
+	
+	public void methodCall() {
+		System.out.println("FROM STASH methdoCall()---");
+	}
 }
