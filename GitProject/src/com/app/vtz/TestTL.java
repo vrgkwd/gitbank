@@ -7,8 +7,15 @@ public class TestTL {
 		System.out.println("Hello all, HOW ARE YOU--");
 		System.out.println("---after craeting the TAG---");
 	}
+<<<<<<< HEAD
 	
 	public void methodCall() {
 		System.out.println("FROM STASH methdoCall()---");
 	}
 }
+=======
+	public void stashMethod() {
+		
+	}
+}
+>>>>>>> stash
